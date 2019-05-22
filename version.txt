@@ -1,2 +1,2 @@
-90001
-90001
+90001:https://github.com/suzhengquan/GSGS/raw/master/win32/DiffPatch.dll
+90001:https://github.com/suzhengquan/GSGS/raw/master/win32/EntryCore.dll
