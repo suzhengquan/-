@@ -6,3 +6,6 @@
 ![Image text](https://raw.githubusercontent.com/suzhengquan/GSGS/master/gsgs.png)
 
 ![Image text](https://github.com/suzhengquan/GSGS/blob/master/login.png?raw=true)
+
+![Image text](https://github.com/suzhengquan/GSGS/blob/master/512-gsgs-logo.png?raw=true)
+
