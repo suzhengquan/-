@@ -9,3 +9,8 @@
 
 ![Image text](https://github.com/suzhengquan/GSGS/blob/master/512-gsgs-logo.png?raw=true)
 
+![Image text](https://github.com/suzhengquan/GSGS/blob/master/screenshot3.png?raw=true)
+
+![Image text](https://github.com/suzhengquan/GSGS/blob/master/screenshot4.png?raw=true)
+
+
